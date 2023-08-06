@@ -1,0 +1,10 @@
+Cree su usuario: 
+
+
+.. si quiere usar el del video el usuario es:
+
+usuario: sandra
+contraseña : admin
+
+
+la base de datos se llama db_tienda y esta lista para importar  
